@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: brooke@curtsyapp.com
 copyright_name: brookemeitzler
 description: > # this means to ignore newlines until "baseurl:"
-  a chemical engineer gone marketer gone coder
+  a chemical engineer gone marketer gone web developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  brookemeitzler

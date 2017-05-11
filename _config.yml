@@ -1,0 +1,21 @@
+# Site settings
+title: Brooke Meitzler
+header-img: img/home-bg.png
+email: brooke@curtsyapp.com
+copyright_name: brookemeitzler
+description: > # this means to ignore newlines until "baseurl:"
+  a chemical engineer gone marketer gone coder
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  brookemeitzler
+learn_profile: brookemeitzler
+email_username: brooke@curtsyapp.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Why I Decided to Dive into Web Development
-date:   2017-05-12 00:08:00 +0000
+date:   2017-05-11 20:08:01 -0400
 ---
 
 
@@ -23,4 +23,4 @@ The only thing missing amongst my skill level is the ability to code.
 
 I applied for the Flatiron School's Birchbox Woman Take Tech Scholarship in April and recently was notified that I was one of the 30 recipients chosen for this opportunity. I'm beyond ecstatic to be a part of the Full Stack Web Developer program. Upon completion of this program, I plan to assist in building a web app for our Curtsy users.
 
-Being an extremely hard-headed and determined young woman, the ability to code has always been a skill set I have craved. Knowing how things work has been my life motto since I was a child. I can't wait to bring you along with me on the journey this year.
+Being an extremely hard-headed and determined young woman, the ability to code has always been a skill set I have craved. So here we go!

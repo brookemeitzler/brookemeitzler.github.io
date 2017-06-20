@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HTML + CSS + Curtsy"
-date:   2017-06-20 14:23:19 +0000
+date:   2017-06-20 10:23:20 -0400
 ---
 
 

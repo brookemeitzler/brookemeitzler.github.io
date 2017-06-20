@@ -20,7 +20,7 @@ I immediately responded to Kelly and hopped on Facetime with her! I was ecstatic
 
 Like every Facetime meeting about the blog, I showed Kelly a few steps on creating a blog post and the difference between the 'visual' and 'text' tab. 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/jRQsz"><a href="//imgur.com/jRQsz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![](http://imgur.com/va5xdka)
 
 As soon as I pressed on the 'text' tab together, her face lit up with joy!
 

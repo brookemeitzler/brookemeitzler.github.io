@@ -20,14 +20,11 @@ I immediately responded to Kelly and hopped on a Facetime with her! I was ecstat
 
 Like every Facetime meeting about the blog, I showed Kelly a few steps on creating a blog post and the difference between the 'visual' and 'text' tab. 
 
-![](http://imgur.com/va5xdka)
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="va5xdka"><a href="//imgur.com/va5xdka"></a></blockquote>
+<blockquote class="imgur-embed-pub" lang="en" data-id="va5xdka"><a href="//imgur.com/va5xdka"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 As soon as I pressed on the 'text' tab together, her face lit up with joy!
 
-![](http://imgur.com/q91xVqo)
-<blockquote class="imgur-embed-pub" lang="en" data-id="q91xVqo"><a href="//imgur.com/q91xVqo"></a></blockquote>
+<blockquote class="imgur-embed-pub" lang="en" data-id="q91xVqo"><a href="//imgur.com/q91xVqo"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 She told me everything was coming back to her when I put `<strong>paragraph</strong>` in the 'text' tab then instantly switched back to the 'visual' tab to see: **paragraph**.
 

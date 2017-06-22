@@ -7,7 +7,7 @@ date:   2017-06-20 10:23:20 -0400
 
 This past week our Curtsy team decided to bring our blog back. Although this sounds like an easy decision, it required hours of planning and ongoing work. From redesigning the layout of the blog to onboarding our campus team members who will be contributing to our blog, it's been a rigorous journey.
 
-In the light of all of the tedious tasks that is associated with our blog, I was delighted to see such enthusiasm about HTML from one of our campus directors. To see who was interested in contributing to our blog, I sent an email out ot all of our campus team members at all 35 schools. I received numerous replies, but one stood out the most.
+In the light of all of the tedious tasks that is associated with our blog, I was delighted to see such enthusiasm about HTML from one of our campus directors. To see who was interested in contributing to our blog, I sent an email to all of our campus team members at all 35 schools. I received numerous replies, but one stood out from the rest.
 
 > Hey hey Brooke!
 > 

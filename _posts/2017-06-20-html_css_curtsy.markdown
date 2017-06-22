@@ -22,6 +22,7 @@ Like every Facetime meeting about the blog, I showed Kelly a few steps on creati
 
 ![](http://imgur.com/va5xdka)
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="va5xdka"><a href="//imgur.com/va5xdka"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 As soon as I pressed on the 'text' tab together, her face lit up with joy!
 

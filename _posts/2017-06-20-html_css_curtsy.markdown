@@ -22,7 +22,7 @@ Like every Facetime meeting about the blog, I showed Kelly a few steps on creati
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="va5xdka"><a href="//imgur.com/va5xdka"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-As soon as I pressed on the 'text' tab together, her face lit up with joy!
+As soon as I pressed on the 'text' tab, her face lit up with joy!
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="q91xVqo"><a href="//imgur.com/q91xVqo"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 

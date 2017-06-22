@@ -16,11 +16,12 @@ In the light of all of the tedious tasks that is associated with our blog, I was
 > #AlwaysBringingTheBlogBack,
 > KellyKelly, a rising senior in college, recently took an HTML class in college and thoroughly enjoyed.
 
-I immediately responded to Kelly and hopped on Facetime with her! I was ecstatic to see her excitement about learning HTML. After we discussing why we decided to bring our blog back and a few fundamentals of Wordpress, we dove into the fun of blogging—HTML. 
+I immediately responded to Kelly and hopped on a Facetime with her! I was ecstatic to see her excitement about learning HTML. After we discussing why we decided to bring our blog back and a few fundamentals of Wordpress, we dove into the fun of blogging—HTML. 
 
 Like every Facetime meeting about the blog, I showed Kelly a few steps on creating a blog post and the difference between the 'visual' and 'text' tab. 
 
 ![](http://imgur.com/va5xdka)
+
 
 As soon as I pressed on the 'text' tab together, her face lit up with joy!
 

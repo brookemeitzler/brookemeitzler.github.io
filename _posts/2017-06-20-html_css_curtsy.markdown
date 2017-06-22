@@ -27,6 +27,7 @@ Like every Facetime meeting about the blog, I showed Kelly a few steps on creati
 As soon as I pressed on the 'text' tab together, her face lit up with joy!
 
 ![](http://imgur.com/q91xVqo)
+<blockquote class="imgur-embed-pub" lang="en" data-id="q91xVqo"><a href="//imgur.com/q91xVqo"></a></blockquote>
 
 She told me everything was coming back to her when I put `<strong>paragraph</strong>` in the 'text' tab then instantly switched back to the 'visual' tab to see: **paragraph**.
 
